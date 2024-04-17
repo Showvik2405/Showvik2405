@@ -9,11 +9,11 @@
 
 🔧 **Mechanical Engineering:** Mastery in the science of mechanics, thermodynamics, and materials, driving towards engineering excellence and precision.
 
+🤖 **Robotics Aficionado:** Enthusiastically exploring the vast horizons of robotics, driven by a desire to engineer intelligent systems that redefine possibility.
+
 💻 **Programming Virtuoso:** Proficient in C, C++, Java, Python, Dart, and Flutter, with a knack for crafting elegant and efficient code.
 
 🖥️ **Autodesk AutoCAD:** Adept in the realm of design, wielding Autodesk AutoCAD to craft intricate blueprints and models with unparalleled accuracy.
-
-🤖 **Robotics Aficionado:** Enthusiastically exploring the vast horizons of robotics, driven by a desire to engineer intelligent systems that redefine possibility.
 
 🤖 **AI & Automation Enthusiast:** Fascinated by the intersection of artificial intelligence and automation, leveraging cutting-edge technologies to create efficient and intelligent systems.
 
@@ -24,14 +24,6 @@
 📱 **Application Development:** Crafting intuitive and user-centric applications that harmonize functionality with elegance, elevating user experiences to new heights.
 
 🧠 **Raspberry Pi for AI:** Exploring the capabilities of Raspberry Pi for artificial intelligence applications, paving the way for innovative AI solutions in diverse fields.
-
-<! ## Skills
-
-- Implementing AI and machine learning algorithms for automation and intelligent systems.
-- Proficiency in Autodesk AutoCAD , Blenda.
-- Crafting sophisticated applications for diverse platforms using Dart, Flutter, and more.
-- Expertise in C, C++, Java, Python, and Arduino programming.
-- Utilizing Raspberry Pi for AI and robotics projects.>
 
 ## Let's Collaborate!
 
