@@ -1,4 +1,4 @@
-# Welcome to My Engineering Odyssey! 🛠️🚀
+# Welcome to My Engineering Odyssey! 🛠️
 
 ## About Me
 
