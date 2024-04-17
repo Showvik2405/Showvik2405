@@ -1,4 +1,5 @@
 # Welcome to My Engineering Odyssey! 🛠️
+<img src="https://raw.githubusercontent.com/rzashakeri/rzashakeri/main/intro.gif" alt="👋 Hi there! I'm Showvik Mondol Joy" title="👋 Hi there! I'm SHowvik Mondol Joy"/>
 
 ## About Me
 
