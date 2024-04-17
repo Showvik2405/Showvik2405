@@ -25,13 +25,13 @@
 
 🧠 **Raspberry Pi for AI:** Exploring the capabilities of Raspberry Pi for artificial intelligence applications, paving the way for innovative AI solutions in diverse fields.
 
-## Skills
+<! ## Skills
 
 - Implementing AI and machine learning algorithms for automation and intelligent systems.
 - Proficiency in Autodesk AutoCAD , Blenda.
 - Crafting sophisticated applications for diverse platforms using Dart, Flutter, and more.
 - Expertise in C, C++, Java, Python, and Arduino programming.
-- Utilizing Raspberry Pi for AI and robotics projects.
+- Utilizing Raspberry Pi for AI and robotics projects.>
 
 ## Let's Collaborate!
 
@@ -40,5 +40,15 @@
 ## Keep Exploring!
 
 🚀 Stay tuned for updates on my latest ventures, discoveries, and triumphs in the realm of engineering and technology. Join me on this exhilarating journey as we push the boundaries of possibility and shape tomorrow's world.
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Showvik2405)  
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Showvik2405)](https://github.com/ryo-ma/github-profile-trophy)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Showvik2405&show_icons=true)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=Showvik2405)  
+
 
 
